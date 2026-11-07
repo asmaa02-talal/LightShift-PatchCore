@@ -1,0 +1,6 @@
+experiment:
+  name: patchcore_b1
+  method: b1_invariant_memory
+memory:
+  coreset_ratio: 0.1
+  equal_budget_comparison: true

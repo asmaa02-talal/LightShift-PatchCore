@@ -1,0 +1,9 @@
+defaults:
+  - dataset: mvtec
+  - model: patchcore
+  - _self_
+
+experiment:
+  name: baseline
+  seed: 42
+  output_dir: results

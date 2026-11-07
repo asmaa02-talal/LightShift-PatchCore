@@ -1,0 +1,12 @@
+experiment:
+  name: illumination_shift
+  seed: 42
+  method: vanilla
+illumination:
+  transforms:
+    - gamma
+    - brightness
+    - contrast
+    - color_temperature
+    - directional_shading
+  severity_levels: [1, 2, 3, 4, 5]

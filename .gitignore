@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.env
+*.log
+
+# Données MVTec et artefacts volumineux
+data/raw/*
+data/processed/*
+data/shifted/*
+!data/**/.gitkeep
+mlruns/
+mlartifacts/
+results/*
+!results/**/.gitkeep
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+
+# IDE
+.vscode/
+.idea/
+.DS_Store

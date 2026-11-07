@@ -1,0 +1,7 @@
+name: mvtec_ad
+root: data/raw/mvtec_ad
+categories:
+  - bottle
+  - carpet
+  - hazelnut
+image_size: 256

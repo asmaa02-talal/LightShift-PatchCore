@@ -1,0 +1,6 @@
+experiment:
+  name: patchcore_b2
+  method: b2_alignment
+alignment:
+  variant: instance
+  target_images: 0

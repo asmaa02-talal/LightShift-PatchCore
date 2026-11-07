@@ -1,0 +1,32 @@
+{
+    "seed": 42,
+    "train_ratio": 0.7,
+    "validation_ratio": 0.1,
+    "calibration_ratio": 0.2,
+    "categories": [
+        {
+            "category": "bottle",
+            "total": 209,
+            "train": 146,
+            "validation": 20,
+            "calibration": 43,
+            "seed": 42
+        },
+        {
+            "category": "carpet",
+            "total": 280,
+            "train": 196,
+            "validation": 28,
+            "calibration": 56,
+            "seed": 42
+        },
+        {
+            "category": "hazelnut",
+            "total": 391,
+            "train": 273,
+            "validation": 39,
+            "calibration": 79,
+            "seed": 42
+        }
+    ]
+}

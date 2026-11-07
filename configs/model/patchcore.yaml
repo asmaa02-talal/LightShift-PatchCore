@@ -1,0 +1,8 @@
+name: patchcore
+backbone: wide_resnet50_2
+layers:
+  - layer2
+  - layer3
+pretrained: true
+coreset_sampling_ratio: 0.1
+nearest_neighbors: 1

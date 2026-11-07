@@ -1,0 +1,6 @@
+experiment:
+  name: patchcore_b3
+  method: b3_conformal_calibration
+calibration:
+  alpha: 0.05
+  target_images: 20

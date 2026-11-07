@@ -1,0 +1,5 @@
+experiment:
+  name: patchcore_baseline
+  seed: 42
+  illumination: reference
+  method: vanilla
